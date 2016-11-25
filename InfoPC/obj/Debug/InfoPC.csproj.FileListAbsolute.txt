@@ -1,0 +1,15 @@
+c:\users\ramon\documents\visual studio 2015\Projects\InfoPC\InfoPC\bin\Debug\InfoPC.exe.config
+c:\users\ramon\documents\visual studio 2015\Projects\InfoPC\InfoPC\bin\Debug\InfoPC.exe
+c:\users\ramon\documents\visual studio 2015\Projects\InfoPC\InfoPC\bin\Debug\InfoPC.pdb
+c:\users\ramon\documents\visual studio 2015\Projects\InfoPC\InfoPC\obj\Debug\InfoPC.csprojResolveAssemblyReference.cache
+c:\users\ramon\documents\visual studio 2015\Projects\InfoPC\InfoPC\obj\Debug\InfoPC.Form1.resources
+c:\users\ramon\documents\visual studio 2015\Projects\InfoPC\InfoPC\obj\Debug\InfoPC.Properties.Resources.resources
+c:\users\ramon\documents\visual studio 2015\Projects\InfoPC\InfoPC\obj\Debug\InfoPC.csproj.GenerateResource.Cache
+c:\users\ramon\documents\visual studio 2015\Projects\InfoPC\InfoPC\obj\Debug\InfoPC.exe
+c:\users\ramon\documents\visual studio 2015\Projects\InfoPC\InfoPC\obj\Debug\InfoPC.pdb
+C:\Users\Ramon\Documents\Visual Studio 2015\Projects\InfoPC\InfoPC\obj\Debug\InfoPC.Menu.resources
+C:\Users\Ramon\Documents\Visual Studio 2015\Projects\InfoPC\InfoPC\obj\Debug\InfoPC.Form2.resources
+C:\Users\Ramon\documents\visual studio 2015\Projects\InfoPC\InfoPC\bin\Debug\EmailHandler.dll
+C:\Users\Ramon\documents\visual studio 2015\Projects\InfoPC\InfoPC\bin\Debug\EmailTestApp.exe
+C:\Users\Ramon\documents\visual studio 2015\Projects\InfoPC\InfoPC\bin\Debug\EmailHandler.pdb
+C:\Users\Ramon\documents\visual studio 2015\Projects\InfoPC\InfoPC\bin\Debug\EmailTestApp.pdb

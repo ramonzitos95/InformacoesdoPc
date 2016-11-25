@@ -1,0 +1,6 @@
+C:\_aspn\EmailHandler\EmailHandler\bin\Debug\EmailHandler.dll.config
+C:\_aspn\EmailHandler\EmailHandler\bin\Debug\EmailHandler.dll
+C:\_aspn\EmailHandler\EmailHandler\bin\Debug\EmailHandler.pdb
+C:\_aspn\EmailHandler\EmailHandler\obj\Debug\ResolveAssemblyReference.cache
+C:\_aspn\EmailHandler\EmailHandler\obj\Debug\EmailHandler.dll
+C:\_aspn\EmailHandler\EmailHandler\obj\Debug\EmailHandler.pdb

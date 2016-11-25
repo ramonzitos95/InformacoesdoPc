@@ -1,0 +1,6 @@
+C:\Scott\2008 Projects\EmailHandler\EmailHandler\bin\Debug\EmailHandler.dll.config
+C:\Scott\2008 Projects\EmailHandler\EmailHandler\bin\Debug\EmailHandler.dll
+C:\Scott\2008 Projects\EmailHandler\EmailHandler\bin\Debug\EmailHandler.pdb
+C:\Scott\2008 Projects\EmailHandler\EmailHandler\obj\Debug\ResolveAssemblyReference.cache
+C:\Scott\2008 Projects\EmailHandler\EmailHandler\obj\Debug\EmailHandler.dll
+C:\Scott\2008 Projects\EmailHandler\EmailHandler\obj\Debug\EmailHandler.pdb

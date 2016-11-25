@@ -1,0 +1,6 @@
+C:\_vbn\EmailHandler\EmailHandler\bin\Release\EmailHandler.dll.config
+C:\_vbn\EmailHandler\EmailHandler\bin\Release\EmailHandler.dll
+C:\_vbn\EmailHandler\EmailHandler\bin\Release\EmailHandler.pdb
+C:\_vbn\EmailHandler\EmailHandler\obj\Release\ResolveAssemblyReference.cache
+C:\_vbn\EmailHandler\EmailHandler\obj\Release\EmailHandler.dll
+C:\_vbn\EmailHandler\EmailHandler\obj\Release\EmailHandler.pdb

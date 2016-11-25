@@ -1,0 +1,6 @@
+C:\Scott\2008 Projects\EmailHandler\EmailHandler\obj\Release\ResolveAssemblyReference.cache
+C:\Scott\2008 Projects\EmailHandler\EmailHandler\bin\Release\EmailHandler.dll.config
+C:\Scott\2008 Projects\EmailHandler\EmailHandler\bin\Release\EmailHandler.dll
+C:\Scott\2008 Projects\EmailHandler\EmailHandler\bin\Release\EmailHandler.pdb
+C:\Scott\2008 Projects\EmailHandler\EmailHandler\obj\Release\EmailHandler.dll
+C:\Scott\2008 Projects\EmailHandler\EmailHandler\obj\Release\EmailHandler.pdb
